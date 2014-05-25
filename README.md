@@ -25,6 +25,7 @@ Tested using R version 3.1.0 (2014-04-10), Platform: x86_64-pc-linux-gnu (64-bit
 * `README.md`
 * `run_analysis.R`: R script that cleans, summarizes and reshapes the "Human Activity Recognition Using Smartphones Dataset"
 * `CodeBook.md`: information about the variables used in the output file `tidy_data.txt`
+* `feature.txt`: a list of extracted features
 
 ###Running the script
 * make sure that your working directory contains both the `UCI HAR Dataset` directory and the `run_analysis.R` R script.
