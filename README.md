@@ -1,14 +1,14 @@
 ## Cleaning of Human Activity Recognition Using Smartphones Dataset
 ========================
-AbuElela A.
+AbuElela A.<br />
 ayman.elkhodiery@kaust.edu.sa
 ###Introduction
 
-####Input: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+* Input: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-####Processing:
+* Processing:
 
-####the output:
+* The output:
 
 ###The Repository contain the following files:
 * README.md
