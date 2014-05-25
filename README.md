@@ -8,7 +8,8 @@ The goal of this project is to clean, summarize and reshape the input data into 
 The data of this project can be downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. 
 
 
-* **Processing**: The script `run_analysis.R` does the following to the input data using R version 3.1.0 (2014-04-10), Platform: x86_64-pc-linux-gnu (64-bit).
+* **Processing**: The script `run_analysis.R` does the following to the input data using R.
+Tested using R version 3.1.0 (2014-04-10), Platform: x86_64-pc-linux-gnu (64-bit).
     1. *modify feature names* to comply with R naming guidelines by replacing '-' with '.' and removing '()'.
     2. Combine *corrected feature* names to the data set.
     2. Replace the *activity labels* from the y file in each data set into *activity names* using the relation in `activity_labels.txt`
