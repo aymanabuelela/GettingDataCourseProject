@@ -1,5 +1,4 @@
 ## Cleaning of Human Activity Recognition Using Smartphones Dataset
-========================
 AbuElela A.<br />
 ayman.elkhodiery@kaust.edu.sa
 ###Introduction
