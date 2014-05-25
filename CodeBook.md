@@ -6,7 +6,7 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 * Columns:
 	* `variable`: contains all the extracted features from the original data set.
 	* `subject`: represents subject labels. from 1 to 30.
-	* columns from 3 to 8 represent calculated averages for each extracted feature per each subject per each activity from the following: `LAYING`, `SITTING`, `STANDING`, `WALKING`, `WALKING_DOWNSTAIRS`, `WALKING_UPSTAIRS`.
+	* columns from 3 to 8 represent calculated averages for each extracted feature per each subject per each activity from the following: `LAYING`, `SITTING`, `STANDING`, `WALKING`, `WALKING_DOWNSTAIRS`, `WALKING_UPSTAIRS`.<br />
 *Rows: each row is a full record; contains 'feature name', 'subject label' and 6 average feature values for 6 activities
 
 ###Variable Nomenclature
@@ -19,12 +19,12 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 	WALKING
 	WALKING_DOWNSTAIRS
 	WALKING_UPSTAIRS
-* variable: 66
-	each variable term is composed of 4 parts: (1) prefix, (2) base, (3) mean or std and (4) axis
-	(1) Prefix:
+* variable: 66 <br />
+	Each variable term is composed of 4 parts: (1) prefix, (2) base, (3) mean or std and (4) axis.
+	1. Prefix:
 		t, time domain signal
 		f, frequency domain signal
-	(2) Base:
+	2. Base:
 		BodyAcc
 		GravityAcc
 		BodyAccJerk
@@ -40,11 +40,11 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 		Raw signals: Accelerometer (Acc) or Gyroscope (Gyr)
 		Derivations: Jerk or Mag
 		see feature_info.txt in the original data directory for more information.
-	(3)Mean or std:
+	3. Mean or std:
 		mean or Mean: Mean value
 		std: Standard deviation
-	(4)Axis:
-		X or Y or Z
+	4. Axis:
+		X or Y or Z <br />
 	full list of features in `feature.txt`
 
 ###Transformation of the Original Data
