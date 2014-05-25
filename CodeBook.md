@@ -6,8 +6,8 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 * Columns:
 	* `variable`: contains all the extracted features from the original data set.
 	* `subject`: represents subject labels. from 1 to 30.
-	* columns from 3 to 8 represent calculated averages for each extracted feature per each subject per each activity from the following: `LAYING`, `SITTING`, `STANDING`, `WALKING`, `WALKING_DOWNSTAIRS`, `WALKING_UPSTAIRS`.<br />
-*Rows: each row is a full record; contains 'feature name', 'subject label' and 6 average feature values for 6 activities
+	* columns from 3 to 8 represent calculated averages for each extracted feature per each subject per each activity from the following: `LAYING`, `SITTING`, `STANDING`, `WALKING`, `WALKING_DOWNSTAIRS`, `WALKING_UPSTAIRS`.
+* Rows: each row is a full record; contains 'feature name', 'subject label' and 6 average feature values for 6 activities
 
 ###Variable Nomenclature
 * subject: 30
