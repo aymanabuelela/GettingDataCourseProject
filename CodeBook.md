@@ -45,7 +45,8 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 		std: Standard deviation<br>
 	4. Axis:
 		X or Y or Z <br>
-	full list of features in `feature.txt`<br>
+
+full list of features in `feature.txt`<br>
 
 ###Transformation of the Original Data
 Original data came in the form of test and train data sets. Subjects and activity labels in rows and feature values in 561 columns.
