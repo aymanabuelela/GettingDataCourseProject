@@ -19,8 +19,8 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 	WALKING<br>
 	WALKING_DOWNSTAIRS<br>
 	WALKING_UPSTAIRS<br>
-* variable: 66 <br />
-	Each variable term is composed of 4 parts: (1) prefix, (2) base, (3) mean or std and (4) axis.
+* variable: 66 features<br />
+	Each variable term is composed of **4 parts: (1) prefix, (2) base, (3) mean or std and (4) axis**.
 	1. Prefix:<br>
 		t, time domain signal<br>
 		f, frequency domain signal
