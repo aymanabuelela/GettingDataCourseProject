@@ -21,31 +21,31 @@ The features selected for this data set `tidy_data.txt` come from extractinf the
 	WALKING_UPSTAIRS
 * variable: 66 <br />
 	Each variable term is composed of 4 parts: (1) prefix, (2) base, (3) mean or std and (4) axis.
-	1. Prefix:
-		t, time domain signal
+	1. Prefix:<br>
+		t, time domain signal<br>
 		f, frequency domain signal
-	2. Base:
-		BodyAcc
-		GravityAcc
-		BodyAccJerk
-		BodyGyro
-		BodyGyroJerk
-		BodyAccMag
-		GravityAccMag
-		BodyAccJerkMag
-		BodyGyroMag
-		BodyGyroJerkMag
+	2. Base:<br>
+		BodyAcc<br>
+		GravityAcc<br>
+		BodyAccJerk<br>
+		BodyGyro<br>
+		BodyGyroJerk<br>
+		BodyAccMag<br>
+		GravityAccMag<br>
+		BodyAccJerkMag<br>
+		BodyGyroMag<br>
+		BodyGyroJerkMag<br>
 		
-		Signal from: body or gravity.
-		Raw signals: Accelerometer (Acc) or Gyroscope (Gyr)
-		Derivations: Jerk or Mag
-		see feature_info.txt in the original data directory for more information.
-	3. Mean or std:
-		mean or Mean: Mean value
-		std: Standard deviation
+		Signal from: body or gravity.<br>
+		Raw signals: Accelerometer (Acc) or Gyroscope (Gyr)<br>
+		Derivations: Jerk or Mag<br>
+		see feature_info.txt in the original data directory for more information.<br>
+	3. Mean or std:<br>
+		mean or Mean: Mean value<br>
+		std: Standard deviation<br>
 	4. Axis:
-		X or Y or Z <br />
-	full list of features in `feature.txt`
+		X or Y or Z <br>
+	full list of features in `feature.txt`<br>
 
 ###Transformation of the Original Data
 Original data came in the form of test and train data sets. Subjects and activity labels in rows and feature values in 561 columns.
